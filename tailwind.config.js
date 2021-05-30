@@ -2,7 +2,7 @@ module.exports = {
     mode: 'jit',
     purge: {
         // enabled: true,
-        content: ['./*.html', './**/*.html'],
+        content: ['./*.html'],
         options: {
             keyframes: true
         }
