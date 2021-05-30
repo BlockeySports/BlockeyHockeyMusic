@@ -1,7 +1,7 @@
 {
-    "name": "tailwind-template",
+    "name": "blockey-hockey-music",
     "version": "1.0.0",
-    "description": "Jake Harvanchik's TailwindCSS Starter Template Project",
+    "description": "The webserver for Blockey Hockey sound files.",
     "main": "index.js",
     "scripts": {
         "dev": "cross-env NODE_ENV=development postcss ./assets/styles/tailwind.css -o ./assets/styles/styles.css -w --verbose",
